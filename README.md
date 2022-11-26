@@ -3,5 +3,5 @@ this is a simple bricks template of bloc  , implemented with flutter_bloc,so I c
 without many efforts.
 
 
-[flutter_bloc documentation ](https://bloclibrary.dev/#/)
-[mason package] (https://pub.dev/packages/mason_cli)
+[flutter_bloc documentation ](https://bloclibrary.dev/#/) \
+[mason package](https://pub.dev/packages/mason_cli)
